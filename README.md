@@ -22,12 +22,6 @@ Graduate in Chemical Process Engineering passionate about process optimization, 
 ---
 
 ### 📌 Featured Projects
-
-> *List down your key engineering projects, simulations, or personal automation tools below:*
-
-- **[Project Name 1]** - Short description of your process simulation, final year project, or automation workflow.
-- **[Project Name 2]** - Short description of a technical project or data analysis tool.
-
 ---
 
 <p align="center">
